@@ -11,8 +11,8 @@ Easy to get Fortran code environment as well as some code solutions based on exa
 * fpm - *build system*
 * fortitude - *linter*
 * fprettify - *formatter*
-* OpenMP, OpenMPI - *paralleization stuff*
-* gfortran, ifx, nvfortran, lfortran - *compiler option*
+* OpenMP, OpenMPI - *paralleization*
+* gfortran, ifx, nvfortran, lfortran - *compilers*
 
 ## Setup
 
