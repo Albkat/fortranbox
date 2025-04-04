@@ -23,7 +23,7 @@ Install the Conda package manager via a Conda distribution ([Miniforge](https://
 
 
 ```
-conda create -n fpm gcc gfortran 
+conda env create -f setup/setup_conda/environment.yml
 ```
 
 
