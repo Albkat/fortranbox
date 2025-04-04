@@ -1,0 +1,7 @@
+project: "1178"
+author: "ME"
+summary: "Documentation for the xtb calculation"
+output_dir:./docs
+
+source_dir: ./src
+extensions: ["f90","f95"]

@@ -9,3 +9,4 @@ dependencies:
   - python=3.11   # Optional: useful if you use Python scripts/tools
   - pip
   - fpm       # Optional: fpm via pip (can be installed manually)
+  - ford
